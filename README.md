@@ -1,5 +1,10 @@
-### Hello 👋🏻
-Thanks for visiting my GitHub profile.
+### 안녕하세요 반갑습니다 👋🏻
+
+인공지능과 관련된 분야에 흥미가 생겨서 2020년 10월부터 학원을 다니며 개발공부를 시작했습니다.   
+6개월간 학원을 다니며 Java, Javascript, nodeJS, Oracle, HTML5, CSS3, Python, 머신러닝, 빅데이터 등에 대해 배웠고   
+배운 내용을 완벽하게 숙지했다고는 할 수 없지만 계속해서 공부하며 부족한 부분을 채워나가고 있습니다.   
+😄
+
 
 <!--
 **Chanhoe-Hwang/Chanhoe-Hwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
